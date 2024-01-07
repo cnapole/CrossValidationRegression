@@ -28,7 +28,7 @@ Please let us know by writing it down and your thoughts about what caused that b
 Other cross-validation techniques will be tests too.
 
 ## Sources
-    * https://www.educative.io/answers/how-to-implement-crossvalpredict-in-sklearn
-    
-    * https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_predict.html
+www.educative.io/answers/how-to-implement-crossvalpredict-in-sklearn
+
+scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_predict.html
 
