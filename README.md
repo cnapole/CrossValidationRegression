@@ -18,8 +18,8 @@ This code shows how to use cross-validation for a regression problem in which so
 
 ## How to tweak this code
 There are several point to tweek. At least for me, the most important are the following ones:
-1) K divisions
-2) Model ANN
+    * K divisions
+    * Model ANN
 
 ## Found a bug?
 Please let us know by writing it down and your thoughts about what caused that bug. Try to explain as much as you can. It will be very appreciate it
@@ -27,4 +27,7 @@ Please let us know by writing it down and your thoughts about what caused that b
 ## Work in progress
 Other cross-validation techniques will be tests too.
 
+## Sources
+https://www.educative.io/answers/how-to-implement-crossvalpredict-in-sklearn
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_predict.html
 
