@@ -12,14 +12,14 @@ This code shows how to use cross-validation for a regression problem in which so
 ## How to install this
 1) Download the code
 2) Make sure that you installed:
-    * Tensorflow. The code was developed with Python 3.11
-    * Scikeras (documentation: https://adriangb.com/scikeras/stable/)
-    * SK-Learn
+* Tensorflow. The code was developed with Python 3.11
+* Scikeras (documentation: https://adriangb.com/scikeras/stable/)
+* SK-Learn
 
 ## How to tweak this code
 There are several point to tweek. At least for me, the most important are the following ones:
-    * K divisions
-    * Model ANN
+* K divisions
+* Model ANN
 
 ## Found a bug?
 Please let us know by writing it down and your thoughts about what caused that bug. Try to explain as much as you can. It will be very appreciate it
